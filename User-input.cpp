@@ -1,3 +1,5 @@
+/*this allows input of data from the user*/
+
 #include <iostream>
 using namespace std;
 
